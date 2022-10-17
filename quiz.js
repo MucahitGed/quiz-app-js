@@ -1,3 +1,5 @@
+//not using only for showing also could use that way
+
 function Quiz(questions){
     this.questions = questions;
     this.questionIdx = questionIdx = 0;
